@@ -25,7 +25,7 @@ $lang["side_what"] = "Что это?";
 $lang["side_players"] = "Для игроков";
 $lang["side_owners"] = "Для владельцев";
 $lang["side_devs"] = "Для разработчиков";
-$lang["side_testimonials"] = "Testimonials";
+$lang["side_testimonials"] = "ОТЗЫВЫ";
 $lang["side_songs"] = "Песни";
 $lang["side_servers"] = "Сервера";
 $lang["side_dashboard"] = "Настройки";
@@ -53,7 +53,7 @@ $lang["devs_text"] =
 "Вы разработчик для сервера и хотите интегрировать gMusic со своим сайтом?
 Посмотрите на наш прекрасный API!";
 $lang["devs_button"] = "ПОСМОТРЕТЬ НА API";
-$lang["testimonials"] = "СВИДЕТЕЛЬСТВА";
+$lang["testimonials"] = "ОТЗЫВЫ";
 // Welcome!
 $lang["wel_welcome"] = "Добро пожаловать!";
 $lang["wel_welcometo"] = "Добро пожаловать на gMusic!";
